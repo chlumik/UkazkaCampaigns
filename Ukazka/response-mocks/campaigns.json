@@ -1,0 +1,1013 @@
+{
+  "data" : [
+    {
+      "id" : "david-mason-porcelanove-kameninove-nadobi-peprenky-slanky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "V čem tkví <b>kouzlo perfektně prostřeného stolu<\/b>? Nejsou to labutě z ubrousků ani předražené nádobí. Jsou to detaily, které má značka David Mason perfektně zmáknuté. Objevte její <b>porcelánové a kameninové nádobí<\/b>, které působí mile, je kvalitní a <b>zdobené krásnými motivy<\/b>.",
+        "types" : [
+          "Nové"
+        ],
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "author_description" : "David Mason: Designové nádobí s rodinnou tradicí",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/86\/aa\/86aa4e965307b958022c8009000298215f5bf5f1-458x298.jpeg",
+        "end_in" : {
+          "days" : 6,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "David Mason: Designové nádobí s rodinnou tradicí",
+        "perex" : "V hlavní roli: Porcelán a kamenina ♥"
+      }
+    },
+    {
+      "id" : "detska-narozeninova-oslava-vyzdoba-obcerstveni-darky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "<i>Pro své nejmenší byste se nejraději  rozkrájeli.<\/i> Poradíme vám, jak vytvořit co <b>nejúžasnější narozeninovou oslavu<\/b>. Od perfektně vymyšlené <b>výzdoby<\/b> přes nejchutnější <b>pohoštění<\/b> až k <b>tipům na dárky<\/b>, kterými jistě zabodujete.",
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/eb\/3e\/eb3e424fabd5bace814bbff49b05877a56828b4e-458x298.jpeg",
+        "types" : [
+          "Nové"
+        ],
+        "author_description" : "Inspirujte se recepty na vynikající domácí zmrzliny ",
+        "end_in" : {
+          "days" : 37,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Rozzařte dětská očka dokonalou oslavou narozenin",
+        "perex" : "Jak na krásnou výzdobu, chutné občerstvení i šikovné dárky pro oslavence"
+      }
+    },
+    {
+      "id" : "floorita-odolne-koberce-behouny",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "<b>Koberec či běhoun<\/b>, který rozzáří byt, je praktický a ještě vydrží nadměrnou zátěž? To je hračka pro italskou značku <b>Floorita<\/b>. Vyrábí koberce vzorů a motivů ideálních do <b>kuchyně, obýváku i předsíně.<\/b> Tak se nebojte popustit uzdu své <b>fantazii<\/b> a dejte si na podlahu kousek, co vystihuje vaši náladu. ",
+        "author_title" : "Klára, Creative Hunter pro Bonami",
+        "types" : [
+          "Nové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/30\/e4\/30e4077d5c348d21d0ca83ac2ceb5751186ec4e6-458x298.jpeg",
+        "author_description" : "Odolné koberce do kuchyně i chodby",
+        "end_in" : {
+          "days" : 37,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Odolné koberce plné vzorů a barev",
+        "perex" : "Floorita: Odolné koberce a běhouny z Itálie"
+      }
+    },
+    {
+      "id" : "karup-design-out-variabilni-nabytek-pohovky-kresla",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Ať už <b>odpočíváte raději v obýváku, nebo lenošíte na sluncem zalitém balkóně,<\/b> s komfortními pohovkami od značky <b>Karup Design v jednoduchém skandinávském stylu<\/b> se hodíte do pohody. Objevte s námi kolekci venkovních sedaček se speciální odolnou povrchovou úpravou, ale i jejich interiérové dvojnice, které jsou stejně parádní ♥",
+        "author_title" : "Míša, Creative Hunter pro Bonami",
+        "types" : [
+          "Nové",
+          "Nábytkové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/ba\/a4\/baa4f39ee4d7aecfbe0a8d2376c1c5765562858f-458x298.jpeg",
+        "author_description" : "Karup na ven i na doma",
+        "end_in" : {
+          "days" : 27,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Karup Design: Scandi v obýváku i na terase",
+        "perex" : "Zamilujte si oblíbené kolekce pohovek na doma i na ven"
+      }
+    },
+    {
+      "id" : "vialli-design-rosti-mepal-sklenice-dozy-potraviny-lahve",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Kdo říká, že nádobí nemůže být <b>praktické i krásné zároveň<\/b>? Značky <b>Vialli Design a Rosti Mepal<\/b> se překonávají v tvorbě <b>funkčních a stylových lahví, misek a odkapávačů<\/b>. Vyzkoušejte <b>dózu na potraviny<\/b> s moderním vzhledem nebo <b>hrnek, který uchová váši kávu horkou<\/b> mnohem déle. ",
+        "author_title" : "Františka, Creative hunter pro Bonami",
+        "types" : [
+          "Nové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/23\/e0\/23e08d151b1e26689fad95185a447325fc791723-458x298.jpeg",
+        "author_description" : "Vialli Design a Rosti Mepal: lahve a svačinové boxy",
+        "end_in" : {
+          "days" : 30,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Moderní nádobí, které vám zpříjemní každý den",
+        "perex" : "Uchovejte své potraviny i nápoje dlouho čerstvé a chutné"
+      }
+    },
+    {
+      "id" : "inspirace-actona-premier-housewares-metaltex-tiseco-home-studio-jidelna",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Neschovávejte si noblesní <b>sklenice<\/b> a stylové <b>prostírání<\/b> jen pro návštěvy. Vychutnejte si i zdánlivě všední večeře či bleskurychlé snídaně v <b>elegantním prostředí<\/b>.  Připravte si ubrousky a příbor, servírujeme našich <b>5 vytříbených tipů<\/b> se kterými trumfnete i zážitek z prestižní restaurace.",
+        "author_title" : "Karolína, Creative Hunter pro Bonami",
+        "types" : [
+          "Nové",
+          "Nábytkové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/80\/b0\/80b0baf334bd7325951de9e9cb5e381c30c0b3fe-458x298.jpeg",
+        "author_description" : "Jaké jsou základní ingredience ideální jídelny? Chytrá řešení a elegance",
+        "end_in" : {
+          "days" : 13,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "5 chytrých řešení pro vaši elegantní jídelnu",
+        "perex" : "Prostírání, stolky i židle v moderním stylu"
+      }
+    },
+    {
+      "id" : "carbotex-perkalove-bavlnene-povleceni-jednoluzko-dvouluzko",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Drží se vás mrzutost a postrádáte energii? Je nejvyšší čas dobít baterky. Někdy nezáleži na tom, kolik je právě hodin a jak dlouhý <b>spánek<\/b> jste si dopřávali. Podstatná je <b>kvalita<\/b> vašeho času odpočinku. Vytvořte ve své <b>ložnici oázu relaxace<\/b> s příjemným povlečením značky CARBOTEX. Uvelebte se v <b>čisté bavlně<\/b> a nalaďte se na pozitivní vlnu léta.",
+        "author_title" : "Míša, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/d2\/51\/d2518bf13dc5585f77c9c1e42f12a0d019e67726-458x298.jpeg",
+        "author_description" : "Bavlněné povlečení pro pohodovou ložnici i dětský pokoj",
+        "end_in" : {
+          "days" : 8,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Ložnice, ve které vládne pohoda",
+        "perex" : "Bavlněné povlečení v optimistických barvách"
+      }
+    },
+    {
+      "id" : "daniel-hechter-home-pohovky-kresla-pufy",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Jsou <b>pohodlné a přitom elegantní<\/b>. Řeč je o kolekci pohovek, křesel a pufů značky <b>Daniel Hechter Home<\/b>, která je na Bonami <b>novinkou<\/b>. Kromě svého designu vás tento nábytek <b>potěší i příjemnou slevou až 61 %.<\/b>",
+        "author_title" : "Ksenia, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/bd\/20\/bd20c19058c2683596e7f332d13e9e539d933fa3-458x298.jpeg",
+        "types" : [
+          "Slevové",
+          "Nábytkové"
+        ],
+        "author_description" : "Elegantní pohovky, křesla a pufy se slevou až 61 %",
+        "end_in" : {
+          "days" : 11,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Daniel Hechter Home: Pohovky a křesla s módní duší",
+        "perex" : "Novinka • Elegantní pohovky, křesla a pufy se slevou až 61 %"
+      }
+    },
+    {
+      "id" : "emily-westwood-walter-bach-frederic-graff-damske-panske-hodinky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Hodinky už dávno neslouží jen k měření času. <b>Jsou tu také od toho, aby podtrhly váš osobitý styl<\/b>. Který módní kousek od značek <b>Emily Westwood, Frederic Graff<\/b> a <b>Walter Bach<\/b> ozdobí vaše zápěstí?",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/07\/35\/073536f19ea0abac22c51c3d792b28db6f4d3188-458x298.jpeg",
+        "author_description" : "Designové kousky s koženými i ocelovými řemínky",
+        "end_in" : {
+          "days" : 5,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Módní hodinky pro ni i pro něj",
+        "perex" : "Designové kousky s koženými i ocelovými řemínky"
+      }
+    },
+    {
+      "id" : "idesign-kosmeticke-organizery-koupelnove-doplnky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "<b>Proč si nezjednodušit život?<\/b> S repertoárem značky iDesign to půjde samo ♥ Najdete tady totiž nespočet chytrých <b>pomocníků a organizérů nejen do koupelny<\/b>, ale také do <b>kuchyně i šatny<\/b>. Stačí se jen lehce inspirovat.",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/df\/02\/df0208e01192dad2fa88d6545523c09566001769-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "V repertoáru značky iDesign najdete nespočet chytrých pomocníků a organizérů nejen do koupelny, ale také do kuchyně i šatny. Stačí se jen lehce inspirovat.",
+        "end_in" : {
+          "days" : 5,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Jednoduchý úklid a organizace s pomocí vychytávek iDesign",
+        "perex" : "Organizéry a jiné doplňky do koupelny, kuchyně i šatny"
+      }
+    },
+    {
+      "id" : "domopak-organizace-ulozne-boxy-satnik-raminka",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Po návratu z perfektně uklizeného <b>hotelového pokoje<\/b> máte doma stísněný pocit a z každého koutu na vás padají neznámé stohy věcí? Zanechte marného čekání na pokojskou a pusťte se do <b>reorganizace<\/b> s vervou a pomocníky značky <b>Domopak<\/b>. Je čas <b>provětrat skříně<\/b> a radovat se z lehkosti bydlení. ",
+        "author_title" : "Františka, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/99\/8d\/998d3df685e31d36f7f7ad597832454fb7e560f7-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Savitar brands",
+        "end_in" : {
+          "days" : 5,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Zažeňte podovolenkový splín a pozvěte domů letní vánek",
+        "perex" : "S organizéry Domopak nepořádek lehce odvane"
+      }
+    },
+    {
+      "id" : "gazzda-minimalisticky-dubovy-nabytek-harmonicky-domov",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Zamilujte se do vzdušných kousků značky <b>Gazzda<\/b> a svěřte svůj domov do rukou nadaných designérů ze Sarajeva. Voňavé <b>dubové dřevo, světlé barvy<\/b> a <b>dokonalé linie<\/b> si získají vaše srdce a z interiéru vytvoří posvátné místo, které dýchá přírodou a přináší pohodu.  ",
+        "author_title" : "Michaela, Creative Hunter pro nábytek",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/ce\/1c\/ce1c08a04cc952de36cb03243f9830d17752910f-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Kvalitní nábytek do obýváku, jídelny, předsíně i ložnice",
+        "end_in" : {
+          "days" : 5,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Gazzda: Harmonický nábytek z dubového dřeva",
+        "perex" : "Kvalitní nábytek do obýváku, jídelny, předsíně i ložnice"
+      }
+    },
+    {
+      "id" : "bloomingville-kameninove-nadobi-kvetinace-dekorace-doplnky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Patříte k nenapravitelným snílkům? Nebo jen nejste s&nbsp;umělými materiály přátelé? Značka Bloomingville a&nbsp;její&nbsp;<b>kameninové a ratanové dekorace a doplňky<\/b> vám&nbsp;pomohou vyčarovat domov přímo pro vás ♥",
+        "author_title" : "Klárka P., Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/c4\/ef\/c4efac48acec00875915b1771f381e16e750b1bb-458x298.jpeg",
+        "author_description" : "Bloomingville: Dekorace s nápadem i puncem romantiky",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Dekorace s nápadem i puncem romantiky",
+        "perex" : "Bloomingville: Kameninové nádobí a květináče, dekorace a doplňky z ratanu či skla"
+      }
+    },
+    {
+      "id" : "wenko-koupelnove-policky-samodrzici-hacky-vesaky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Jak efektivně zorganizovat svou koupelnu během doslova pár minut, aniž byste museli použít vrták a hmoždinky? \nSe značkou Wenko je to realita. Jejich <b>poličky, držáky i háčky<\/b> vám zjednoduší každodenní život.",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/ec\/a7\/eca7b3b6c44ffa34f03c1700d62c3b37bba1d9d1-458x298.jpeg",
+        "author_description" : "Zorganizujte svou koupelnu během pár minut bez použití vrtáku a hmoždinek. Se samodržícími poličkami, držáky i háčky od značky Wenko to půjde jedna radost.",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Wenko: Prakticky zařízená koupelna bez použití vrtačky",
+        "perex" : "Samodržící poličky, háčky a držáky"
+      }
+    },
+    {
+      "id" : "angel-cerda-zidle-stoly-zlata-dekorace",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Poznejte sílu Feng Shui. Stačí udělat <b>pár změn<\/b>, vybrat vhodný nábytek a <b>štěstí s bohatstvím si vás najdou<\/b>. Značka <b>Ángel Cerdá<\/b> má pro vás přesně takové <b>židle, <br>stoly a komody<\/b>, které vám <b>přinesou energii hojnosti<\/b>.",
+        "author_title" : "Ksuša, Creative hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/f1\/1f\/f11f890ba7efbaa24c4232e64d2cc7afb1db99a5-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Ángel Cerdá: Dřevěné stoly, zrcadla a zlatá dekorace",
+        "end_in" : {
+          "days" : 34,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Pozvěte do svého interiéru bohatství",
+        "perex" : "Movitý obývák podle Feng Shui: Síla dřeva a zrcadel"
+      }
+    },
+    {
+      "id" : "hbo-sex-ve-meste-prakticka-pracovna-miranda",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Samostatná <b>Miranda<\/b> si vybudovala úspěšnou kariéru právničky a aby její práce stála za to, musí mít samozřejmě <b>perfektní pracovnu.<\/b> <a href=\"https:\/\/hbogo.cz\/\" target=\"_blank\" class=\"button-interleave\"><b>HBO GO<\/b><\/a> <b>na měsíc zdarma<\/b> vás nechá nakouknout do jejího seriálového světa. ",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/2e\/aa\/2eaa455657ffe3a779d2f9b13da2f08bb99c12d2-458x298.jpeg",
+        "author_description" : "Židle, pracovní stoly, zápisníky i lampy",
+        "end_in" : {
+          "days" : 35,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Bydlení jako v Sexu ve městě: Pracovna podle Mirandy",
+        "perex" : "Uspořádejte si praktickou pracovnu podle energické právničky"
+      }
+    },
+    {
+      "id" : "hbo-sex-ve-meste-elegantni-koupelna-charlotte",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Seriálová <b>Charlotte<\/b> je převlečená <b>dokonalost a elegance<\/b>. Čistá jako ona sama je i její koupelna, do které nyní můžete nakouknout s <a href=\"https:\/\/hbogo.cz\/\" target=\"_blank\" class=\"button-interleave\"><b>HBO GO<\/b><\/a> <b>na měsíc zdarma.<\/b> Nechte se inspirovat bydlením oblíbené Newyorčanky.",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/61\/d1\/61d1a8622c7ac8e501c2753e06b215cbc2bc02bd-458x298.jpeg",
+        "author_description" : "xxx",
+        "end_in" : {
+          "days" : 35,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Bydlení jako v Sexu ve městě: Koupelna podle Charlotte",
+        "perex" : "Elegantní a dokonalá koupelna "
+      }
+    },
+    {
+      "id" : "hbo-sex-ve-meste-luxusni-glamour-loznice-samantha",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Vždy stylová, upravená a nad věcí. Taková je <b>Samantha Jones<\/b> z kultovního seriálu <b>Sex ve městě.<\/b> Ve své <b>glamour ložnici<\/b> tráví mnoho času a netají se tím. Nyní se můžete přesvědčit na vlastní oči s <a href=\"https:\/\/hbogo.cz\/\" target=\"_blank\" class=\"button-interleave\"><b>HBO GO<\/b><\/a> <b>na měsíc zdarma.<\/b>",
+        "author_title" : "Eva, Creative Hunter pro nábytek",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/e7\/0a\/e70a6ded3b45ef3ee0bf05ab24413fe3ed1a956a-458x298.jpeg",
+        "author_description" : "Bydlení jako v Sexu ve městě: Luxusní ložnice podle Samanthy",
+        "end_in" : {
+          "days" : 35,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Bydlení jako v Sexu ve městě: Ložnice podle Samanthy",
+        "perex" : "Zařiďte si luxusní glamour ložnici po vzoru seriálové dračice"
+      }
+    },
+    {
+      "id" : "hbo-sex-ve-meste-dokonaly-satnik-carrie",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Oblíbený seriál <b>Sex ve městě<\/b> mapuje životy čtyř Newyorčanek, nejlepších kamarádek. Extravagantní šatník veselé a šik sloupkařky <b>Carrie<\/b> miluje celý svět. Nyní ho můžete obdivovat i vy s <a href=\"https:\/\/hbogo.cz\/\" target=\"_blank\" class=\"button-interleave\">HBO GO<\/a><\/b> <b>na měsíc zdarma.<\/b>",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/d4\/bb\/d4bb8bc2e8a60d51643c9dc3b6903d37b02b5629-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Šatník podle Carrie Bradshaw",
+        "end_in" : {
+          "days" : 35,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Bydlení jako v Sexu ve městě: Dokonalý šatník podle Carrie",
+        "perex" : "Nechte se inspirovat perfektní šatnou seriálové hrdinky"
+      }
+    },
+    {
+      "id" : "clayre-eef-dekorace-zahrada-kuchyne-zastery-hrnky-ubrusy",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Drobounké domky, které jsou tak typické pro zemi <b>tulipánů<\/b> a větrných mlýnů vyvolávají nostalgii už z dálky a přinutí i zatvrzelé městské typy zvažovat život na <b>venkově<\/b>. Vytvořte <b>útulnou atmosféru<\/b> doma i na své zahradě s <b>romantickými dekoracemi<\/b> od rodinné firmy <b>Clayre Eef<\/b>. ",
+        "author_title" : "Františka, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/de\/f1\/def11804ca322e681ef2e4f5fa98cb65c5609f27-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Romantické dekorace značky Clayre Eef z Nizozemí",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Nahlédněte do okouzlujících holandských domků",
+        "perex" : "Romantické dekorace značky Clayre Eef z Nizozemí"
+      }
+    },
+    {
+      "id" : "inspirace-provence-livin-hill-interieur-de-familie-nabytek",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Vneste do svého domova <b>špetku nezaměnitelné atmosféry<\/b> této historické země nacházející se v jihovýchodní Francii. Představíme vám značky, které vás během <b>mrknutí oka přenesou na rozkvetlá levandulová pole<\/b> zalitá paprsky slunce. To vše <b>v modernějším provedení.<\/b> ",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/d6\/ca\/d6caa2042227ced88d21aa24d13236cfc5cfd044-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Rustikálně řešený nábytek v moderním pojetí",
+        "end_in" : {
+          "days" : 27,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Romantikou dýchající interiér ve stylu moderní Provence",
+        "perex" : "Rustikálně řešený nábytek v moderním pojetí"
+      }
+    },
+    {
+      "id" : "inspirace-skandinavsky-interier-s-kapkou-okazalosti",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Někdy se vyplatí riskovat a porušit pár pravidel. <b>Sesbírejte všechnu odvahu<\/b> a narušte vyladěný skandinávský styl párem <b>osobitých dekorací<\/b>. Rozbijte stereotyp <b>čistého designu<\/b> křiklavým kouskem ve zlaté či měděné barvě.",
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/cd\/e7\/cde7eaf3ee8c5b6f2731a06ab968ae63bd63e9b7-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Obohaťte klasický scandi styl o výjimečné doplňky ",
+        "end_in" : {
+          "days" : 41,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Skandinávský styl s kapkou okázalosti",
+        "perex" : "Obohaťte klasický scandi styl o výjimečné doplňky "
+      }
+    },
+    {
+      "id" : "house-nordic-dva-styly-nabytek-dekorace",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Dejte svému domovu nový kabát. Se značkou <b>House Nordic<\/B> snadno vytvoříte svěží a <b>moderní<\/b> palác plný neokoukaného <b>nábytku a dekorací<\/b>. Ale i interiér políbený čím dál víc oblíbeným <b>retro<\/b> stylem.",
+        "author_title" : "Míša, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/b2\/95\/b295504e12f3ac676a52e6951260a535fdbfb922-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Nábytek a dekorace v moderním i retro provedení",
+        "end_in" : {
+          "days" : 35,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "House Nordic: Jedna značka, dva styly",
+        "perex" : "Nábytek a dekorace v moderním i retro provedení"
+      }
+    },
+    {
+      "id" : "zaslouzena-sklenicka-sklenice-servirovaci-prkenka",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Po dlouhém a náročném dni se odměňte zaslouženou sklenkou.<br>Připravíte si <b>lahodný kokteil<\/b>, otevřete <b>orosenou lahev piva<\/b> či se potěšíte <b>výběrovým vínem<\/b>? Račte to, co hrdlo ráčí ♥ Ať už se rozhodnete pro kterýkoliv nápoj, nezapomeňte ho proložit <b>lehkým mlsáním<br>v podobě oliv, oříšků či sýra.<\/b>",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/b3\/b5\/b3b5fd91a56676ffc5637662875b51a67a524113-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Designové sklenice na víno, pivo či kávu a servírovací tácy na sýr",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Zasloužená sklenička: Dopřejte si chvíli sami pro sebe",
+        "perex" : "Designové sklenice na víno, pivo či kávu a servírovací tácy na sýr"
+      }
+    },
+    {
+      "id" : "lehky-obed-hrnce-panve-bambusove-nadobi-prostirani",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Ve dnech, kdy teploty atakují čtyřicítku se častokrát <b>vytrácí chuť i energie<\/b> připravovat příliš komplikovaná jídla. <b>V jednoduchosti je krása<\/b>, což si naštěstí častokrát myslí i naše chuťové pohárky ♥ <br><br>S pestrobarevným <b>nádobím<\/b>, praktickými <b>nádobami na limonádu<\/b> a bambusovými <b>příbory i doplňky<\/b> bude vaše tabule působit obzvlášť efektně i bez většího vynaložení energie. Vychutnáte si tak <b>pravou letní pohodu<\/b>.",
+        "author_title" : "Karolína, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/32\/80\/32807118a8535aeb263f9779694fa2ddc95d8054-458x298.jpeg",
+        "author_description" : "S pestrobarevným nádobím, praktickými nádobami na limonádu a bambusovými příbory i doplňky bude vaše tabule působit obzvlášť efektně i bez většího vynaložení energie. Vychutnáte si tak pravou letní pohodu.",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Lehký oběd: Na čem si pochutnáte v horkých dnech?",
+        "perex" : "Pestrobarevné nádobí, nádoby na limonádu, bambusové doplňky"
+      }
+    },
+    {
+      "id" : "romanticka-vecere-svicky-ubrusy-sady-nadobi-pribory",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Pro čerstvě <b>zamilované<\/b> je romantická každá <b>večeře<\/b>, ale i ti, kteří spolu pečou už dlouhá léta mohou u kouzelně <b>prostřeného stolu<\/b> při <b>svíčkách<\/b> pocítit motýlky v břiše. Vřelé emoce totiž nemají datum expirace a při citlivém podávání se nikdy nezají. Vychutnejte <b>láskyplné chvíle<\/b>, které patří jen vám.",
+        "author_title" : "Klára, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/14\/4d\/144de55894ca187550526e94a42b881a72068b65-458x298.jpeg",
+        "author_description" : "Naservírujte delikátní vyznání na talíři.",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Romantická večeře: Podávejte horké láskou ♥",
+        "perex" : "Zapalte svíčky a prostřete k cukrování"
+      }
+    },
+    {
+      "id" : "pohodova-snidane-hrnky-misky-budiky-jogamatky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Když první sluneční paprsky lechtají na tváři, je ten pravý čas vykročit z postele pravou nohou. Máme pro vás <b>3 tipy<\/b>, jak si <b>udělat začátek nového dne ještě krásnější.<\/b> Ze snů vás probudí <b>překrásné budíky,<\/b> s <b>pomůckami na jógu<\/b> připravíte tělo na práci i odpočinek a celý ceremoniál pak završíte <b>královskou snídaní<\/b> servírovanou v <b>originálním nádobí.<\/b> ",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/d4\/3d\/d43d8c581bbbb1e3806dfabfddb6629211d5b708-458x298.jpeg",
+        "author_description" : "Budíky, jógamatky, hrnky, misky",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Pohodová snídaně: Ráno dělá den",
+        "perex" : "Designové budíky, jógamatky i nádobí, které udělá snídani ještě krásnější"
+      }
+    },
+    {
+      "id" : "skladem-vse-do-249",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Skladovky, které vaši kapsu nezruinují. Na tyhle lákadla vám bude stačit <b>maximálně 249 Kč<\/b> a navíc jsou <b>ihned k odeslání!<\/b> Najdete mezi nimi radosti všeho druhu - od hrnečků přes zápisníky až po samolepky na zeď. Která se stane tou vaší vyvolenou?",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "types" : [
+
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/0c\/38\/0c38826b5648aba8631d51b94b556a930d3016f5-458x298.jpeg",
+        "author_description" : "Skladovky, které vaši kapsu nezruinují. Na tyhle lákadla vám bude stačit maximálně 249 Kč a navíc jsou ihned k odeslání! Najdete mezi nimi radosti všeho druhu - od hrnečků přes zápisníky až po samolepky na zeď. Která se stane tou vaší vyvolenou?",
+        "end_in" : {
+          "days" : 4177,
+          "seconds" : 25,
+          "hours" : 21,
+          "minutes" : 8
+        },
+        "name" : "Radosti do 249 Kč",
+        "perex" : "Skladovky, které vaši kapsu rozhodně nezruinují"
+      }
+    },
+    {
+      "id" : "skladem-vse-do-499",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Lov může začít! <b>Skladovky do 499 Kč<\/b> jsou kořistí, nad kterou se budete usmívat i při pohledu na výpis z účtu! Stylové láhve vám pomohou s dodržováním pitného režimu, ponožky zahřejí promrzlé nožky a svíčky zase provoní byt. Která ze Skladovek bude dělat radost vám?",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/63\/d5\/63d5f843cf12f4c56b96eefa5e79ef53a9f6ab44-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Lov na Skladovky za skvělé ceny může začít",
+        "end_in" : {
+          "days" : 4177,
+          "seconds" : 25,
+          "hours" : 21,
+          "minutes" : 8
+        },
+        "name" : "Radosti do 499 Kč",
+        "perex" : "Lov na Skladovky za skvělé ceny může začít"
+      }
+    },
+    {
+      "id" : "inart-primorsky-boho-styl-prirodni-dekorace",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Domov útulný, lehce přímořský, <b>svobodný<\/b>. Toužíte po&nbsp;takovém království? ♥ Se značkou InArt a jejími <b>dekoracemi z přírodních materiálů<\/b> bude váš domov volný a nespoutaný - jako vaše osobnost.",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/9c\/7c\/9c7cfeb1782f37a38c060c820b742671ae908d01-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Proutěné košíky, keramické vázy a dekorace z mořské trávy od značky InArt",
+        "end_in" : {
+          "days" : 1,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Boho styl pro ty, kteří jsou stále hlavou v oblacích",
+        "perex" : "Proutěné košíky, keramické vázy a dekorace z mořské trávy od značky InArt"
+      }
+    },
+    {
+      "id" : "flexa-designovy-detsky-nabytek-textil-hracky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "S nadšením jsme se dočkali první várky <b>dětského nábytku<\/b>, překrásných a hodnotných <b>hraček<\/b> a inspirujícího <b>textilu<\/b>. To vše k nám přichází z Dánska v podobě oblíbené značky <b>Flexa<\/b>. Tak zařiďte pokojíček malé princezny či dobrodruha v severském stylu plném <b>čistých linií a jemných barev. <\/b> ",
+        "author_title" : "Eva, Creative Hunter pro nábytek",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/c2\/81\/c281f749228d1ce630ba36dcd85f474be14fa34f-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Designový dětský nábytek, hračky a textil",
+        "end_in" : {
+          "days" : 1,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Flexa: Seznamte se s královnou dětských pokojů",
+        "perex" : "Novinka • Překrásné hračky, bezpečný nábytek a textil plný barev"
+      }
+    },
+    {
+      "id" : "smeg-kuchynske-spotrebice-retro-konvice-robot-mixer-toustovac",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Toužíte po kuchyni, která nebude jen další z mnoha? Pak vsaďte na <b>barevné kuchyňské elektro v retro stylu,<\/b> které rozhodně není jen další tuctovkou. <b>Malé spotřebiče od proslulé značky SMEG<\/b> si poradí nejen s přípravou jakkoliv odvážného menu, ale i se vzhledem vaší kuchyně na výbornou.",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/b4\/9d\/b49d67f40655bcc9fe3d7c20c7b9719d3f650a63-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Pusťte si barevné retro do kuchyně",
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Ikonické spotřebiče SMEG",
+        "perex" : "Pusťte si barevné retro do kuchyně"
+      }
+    },
+    {
+      "id" : "wenko-koupelna-doplnky-pomucky-stojany-hacky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Jsou <b>praktické, moderně pojaté a jsou za hubičku<\/b>.<br>Řeč je o koupelnových doplňcích značky <b>Wenko<\/b>,<br>která si zakládá na praktičnosti a estetice.<br>Pojďme si představit její <b>žhavé novinky<\/b>.",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/70\/57\/7057986dd39dd4d7e2d245137c26b7a73aae9103-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "Nástěnné poličky, stojany, dávkovače na mýdlo a WC kartáče",
+        "end_in" : {
+          "days" : 1,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Wenko: Nové kolekce koupelnových doplňků",
+        "perex" : "Nástěnné poličky, stojany, dávkovače na mýdlo a WC kartáče"
+      }
+    },
+    {
+      "id" : "inspirace-max-winzer-la-forma-revor-retro-moderni-interier-kresla",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Váš domov tvoří nejen barevné ladění a nábytek podle posledních trendů. Je plný <b>vzpomínek<\/b>, které jsou vzácnější než sebeprestižnější design. Podtrhněte jedinečnou paletu stylů ležérně zkombinujte <b>retro i moderní prvky<\/b>. V takovém interiéru na vás dýchne bohatý rodinný příběh <b>tří generací<\/b>.",
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/f9\/66\/f966f1e992ee27935defc3ebd9e66cf0768eeede-458x298.jpeg",
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Inspirace v retro i moderním stylem pro rodinné bydlení plné barev",
+        "end_in" : {
+          "days" : 8,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "name" : "Rodinný dům plný zážitků 3 generací",
+        "perex" : "Inspirace od 60. let po současnost"
+      }
+    },
+    {
+      "id" : "blomus-kuchyne-koupelna-organizace-sklenice-uterky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Zabydlel se u vás <b>chaos<\/b>, a neráčí se odporoučet? Tito nezvaní hosté jsou vůči náznakům slepí. <b>Praktické doplňky<\/b> od značky <b>Blomus<\/b> jej rázně vyprovodí. Přivítejte <b>minimalistický šarm<\/b> a přehledný systém.",
+        "author_title" : "Františka, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/15\/0c\/150c94064518e721030c830ed09ec05422f00238-458x298.jpeg",
+        "types" : [
+          "Brzy končí"
+        ],
+        "author_description" : "Blomus: Šikovná organizace pro perfektní koupelnu i kuchyni",
+        "end_in" : {
+          "seconds" : 25,
+          "minutes" : 8,
+          "hours" : 20
+        },
+        "name" : "Elegance a pořádek: Vaši oblíbení spolubydlící",
+        "perex" : "Maximálně funkční a estetické doplňky značky Blomus"
+      }
+    },
+    {
+      "id" : "loomi-design-zidle-trikrat-jinak",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "<b>Využijte jednu židli na několik způsobů<\/b>. Stačí si vybrat barvu a provedení. Charismatické židle <b>loomi.design<\/b> skvěle padnou do jakékoliv místnosti. Která bude ta vaše?\n<b>• <a href=\"#pracovni\">Pracovní koutek<\/a> • <a href=\"#obyvacipokoj\">Obývací pokoj<\/a> • <a href=\"#jidelna\">Jídelna<\/a><\/b>\n",
+        "author_title" : "Veronika, Creative Hunter pro Bonami",
+        "types" : [
+          "Brzy končí",
+          "Nábytkové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/d3\/0f\/d30f611b360bdf68cc93f3e32ca01e73112166b9-458x298.jpeg",
+        "author_description" : "3 tipy, jak využít klasickou jídelní židli",
+        "end_in" : {
+          "seconds" : 25,
+          "minutes" : 8,
+          "hours" : 20
+        },
+        "name" : "Ikonická židle loomi.design 3x jinak",
+        "perex" : "Objevte 3 kreativní způsoby, jakými můžete využít židli"
+      }
+    },
+    {
+      "id" : "decoking-zavesy-povleceni-prosteradla-rucniky-osusky",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Vítejte v království, ve kterém vládne pohodlí. Značka <b>DecoKing<\/b> zařídí, že se <b>z vaší ložnice stane oáza zaslouženého klidu<\/b>. V jejím repertoáru si můžete vybrat od <b>vzorovaných povlečení<\/b> po <b>houževnaté ručníky<\/b>.",
+        "author_title" : "Františka, Creative Hunter pro Bonami",
+        "types" : [
+          "Brzy končí"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/bb\/bd\/bbbd3356592df0ea4305c19448cb538a5473dfb8-458x298.jpeg",
+        "author_description" : "Povlečení, prostěradla, osušky, ručníky a závěsy",
+        "end_in" : {
+          "minutes" : 8,
+          "hours" : 20,
+          "seconds" : 25
+        },
+        "name" : "DecoKing: Král na dotek příjemného textilu",
+        "perex" : "Povlečení, prostěradla, osušky, ručníky a závěsy"
+      }
+    },
+    {
+      "id" : "custom-form-scandi-pohovky-stolky-svetla",
+      "type" : "campaign",
+      "attributes" : {
+        "author_description" : "Custom Form: Minimalistické pohovky, osvětlení a knihovny",
+        "name" : "Jak na neotřelý obývací pokoj ve skandinávském stylu ",
+        "types" : [
+          "Brzy končí",
+          "Nábytkové"
+        ],
+        "description" : "<b>Čistota, jednoduchost, funkčnost a elegance<\/b>. To jsou prvky, kvůli kterým tento styl milujeme. Přijměte pozvání od značky <b>Custom Form<\/b>, která vás provede svými <b>minimalistickými pohovkami, konferenčními stoly a osvětlením<\/b>. Zaručeně načerpáte inspiraci, jak přivést tento <b>vzdušný design k sobě domů<\/b>.",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/96\/5e\/965ee4cf2e38b492d0480382fb0baf3f5dd25c75-458x298.jpeg",
+        "author_title" : "Míša, Creative hunter pro Bonami",
+        "end_in" : {
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "perex" : "Pohovky, světla a stolky v kombinaci kovu a dřeva"
+      }
+    },
+    {
+      "id" : "inspirace-benlemi-softnord-scandi-styl-detske-postele-pohovky",
+      "type" : "campaign",
+      "attributes" : {
+        "name" : "Styl, který zraje s vámi",
+        "author_title" : "Karolína, Creative Hunter pro Bonami",
+        "end_in" : {
+          "seconds" : 25,
+          "days" : 6,
+          "minutes" : 8,
+          "hours" : 20
+        },
+        "perex" : "Skandinávská harmonie pro dětský i obývací pokoj",
+        "author_description" : "Šťastný domov by měl poskytovat bezpečné stabilní zázemí a prostor pro růst. Vsaďte na harmonickou skandinávskou estetiku. Jednoduché a kvalitní kousky od české značky Benlemi a nestárnoucí pohovky Softnord s vámi prožijí kus rodinné historie.",
+        "description" : "Šťastný domov znamená bezpečné stabilní zázemí a prostor pro růst. Vsaďte na harmonickou <b>skandinávskou estetiku<\/b>, která poskytne rozlet dětské fantazii a okouzlí svou elegancí i dospělé. Jednoduché a kvalitní kousky od <b>české značky Benlemi<\/b> a nestárnoucí <b>pohovky Softnord<\/b> s vámi prožijí kus rodinné historie.",
+        "types" : [
+          "Nábytkové"
+        ],
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/73\/97\/7397d5ea68d574d442cd4bb27778b98c63fc892c-458x298.jpeg"
+      }
+    },
+    {
+      "id" : "inspirace-skyport-addu-woox-living-boho-obyvak-terasa",
+      "type" : "campaign",
+      "attributes" : {
+        "end_in" : {
+          "days" : 4,
+          "seconds" : 25,
+          "hours" : 20,
+          "minutes" : 8
+        },
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/2f\/88\/2f88c6a5a5d893639b8efce86294e2700a32299b-458x298.jpeg",
+        "author_description" : "Boho obývák se zimní zahradou\/terasou",
+        "name" : "Otevřete dveře obýváku i terasy boho stylu",
+        "author_title" : "Eva, Creative Hunter pro nábytek",
+        "description" : "Změňte svůj domov k nepoznání se stylem pro hravé povahy. Jako stavební kameny použijte <b>nábytek z masivního dřeva.<\/b> Pak už jen přidejte pestré <b>barvy,<\/b> výrazné <b>vzory, pokojové rostliny<\/b> i bláznivé <b>polštáře.<\/b>",
+        "types" : [
+          "Nábytkové"
+        ],
+        "perex" : "Nábytek z exotických dřevin, barevné polštáře i originální dekorace"
+      }
+    },
+    {
+      "id" : "inspirace-nabytek-design-twist-oyo-home-koberce-polstare",
+      "type" : "campaign",
+      "attributes" : {
+        "perex" : "Originální minimalistický nábytek a doplňky s výraznými vzory",
+        "author_description" : "Extravagantní byt mladého hipstera",
+        "description" : "Rádi vybočujete ze zajetých stereotypů a zkoušíte <b>kombinovat zdánlivě nekombinovatelné<\/b>? Inspirujte se neotřelým <b>nábytkem<\/b> v minimalistickém stylu i koberci a doplňky plnými <b>nepřehlédnutelných vzorů<\/b>.",
+        "types" : [
+
+        ],
+        "author_title" : "Karolína, Creative Hunter pro Bonami",
+        "name" : "Nekonvenční bydlení pro hravé kreativce",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/da\/30\/da30582d1489e4f407b791542120b3ebc13330fd-458x298.jpeg",
+        "end_in" : {
+          "days" : 1,
+          "minutes" : 8,
+          "seconds" : 25,
+          "hours" : 20
+        }
+      }
+    },
+    {
+      "id" : "vyprodej-rozkladacich-pohovek-skladem-sleva",
+      "type" : "campaign",
+      "attributes" : {
+        "description" : "Možná se vám tak nízké ceny mohou zdát jako <b>Fata Morgana<\/b> a myslíte si, že jsme přišli o rozum, ovšem opak je pravdou. Představujeme <b>speciální výprodej pohovek<\/b> nabitý <b>posledními kousky za jedinečné ceny,<\/b> které jsou navíc skladem. K vám domů tedy dorazí coby dup. <b>Vyberte si tu svou. Teď nebo nikdy.<\/b>",
+        "author_description" : "Extra výprodej na poslední kousky",
+        "end_in" : {
+          "hours" : 21,
+          "minutes" : 8,
+          "days" : 159,
+          "seconds" : 25
+        },
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/23\/5e\/235e5006255a0fdf06c86dbedbc36c249c4832dd-458x298.jpeg",
+        "types" : [
+          "Slevové"
+        ],
+        "perex" : "Nepropásněte šanci na novou sedačku se speciální slevou",
+        "name" : "Žhavý letní výprodej pohovek"
+      }
+    },
+    {
+      "id" : "joseph-joseph-chytry-kos-uklid-pomucky-myti-nadobi",
+      "type" : "campaign",
+      "attributes" : {
+        "name" : "Ukliďte si v kuchyni se značkou Joseph Joseph",
+        "author_description" : "Chytrý úklid",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/0b\/de\/0bde9544ced67d9bf12b530b1611f2a247599170-458x298.jpeg",
+        "end_in" : {
+          "seconds" : 25,
+          "hours" : 20,
+          "days" : 29,
+          "minutes" : 8
+        },
+        "description" : "Udržet <b>pořádek v kuchyni<\/b> může být pořádná fuška. Usnadněte si práci s chytrými <b>odpadkovými koši<\/b> promyšlenými do posledního detailu a na nádobí použijte <b>šikovné kartáče a odkapávače,<\/b> které se špíny nebojí.",
+        "perex" : "Inovativní odpadkové koše a pomocníci, se kterými bude úklid hračka",
+        "author_title" : "Ivet, Creative Hunter pro Bonami",
+        "types" : [
+
+        ]
+      }
+    },
+    {
+      "id" : "karup-design-rozkladaci-pohovky-pro-hosty",
+      "type" : "campaign",
+      "attributes" : {
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/b1\/69\/b1699891f1a6abb9672a540f117f1732823514b9-458x298.jpeg",
+        "name" : "Obývací pokoj, kde jsou návštěvy vítány",
+        "author_description" : "Vybavte ten svůj variabilní pohovkou od Karup Design",
+        "end_in" : {
+          "hours" : 20,
+          "days" : 10,
+          "seconds" : 25,
+          "minutes" : 8
+        },
+        "perex" : "Vybavte ten svůj variabilní pohovkou od Karup Design",
+        "description" : "<b>Rozkládací pohovka<\/b> je praktickou součástí nejednoho obýváku. Zvelebte ten svůj novou variabilní sedačkou od <b>značky Karup Design.<\/b> Poslouží dobře jako <b>postel pro návštěvy<\/b> i přespolní hosty, kteří budou zůstávat déle.",
+        "author_title" : "Míša, Creative Hunter pro Bonami",
+        "types" : [
+          "Nábytkové"
+        ]
+      }
+    },
+    {
+      "id" : "vitame-jaro-vyber-zahradniho-nabytku",
+      "type" : "campaign",
+      "attributes" : {
+        "name" : "Průvodce výběrem zahradního nábytku",
+        "types" : [
+
+        ],
+        "end_in" : {
+          "hours" : 20,
+          "seconds" : 25,
+          "days" : 37,
+          "minutes" : 8
+        },
+        "description" : "Milujete <b>život na zahradě<\/b>? Přesuňte většinu svých aktivit právě tam. Ranní snídaně, čtení, relax i práci. Objevili jsme pro vás kvalitní a krásné <b>zahradní židle, stoly, křesla, pohovky a dekorace<\/b>, které vám tento čas zpříjemní.",
+        "author_description" : "Stvořte si jídelnu v zahradě či relaxační koutek",
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/e2\/0a\/e20a6b2b89a4cbd4f763ba1262b3c6973382da55-458x298.jpeg",
+        "perex" : "Stvořte si jídelnu na zahradě či relaxační koutek"
+      }
+    },
+    {
+      "id" : "mazzini-sofas-trendy-roku-2019-sametove-pohovky-kresla",
+      "type" : "campaign",
+      "attributes" : {
+        "perex" : "Okouzlující sametové pohovky a křesílka pro moderní byt",
+        "author_title" : "Karol, Creative Hunter pro nábytek",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/38\/ae\/38ae560e5aaad59f281d636408167baeb1eb21b0-458x298.jpeg",
+        "description" : "<b>Samet v interiéru prožívá velké znovuzrození.<\/b> Už dávno nepatří jen do zámeckých komnat. <b>Pohovky i křesílka<\/b> vytvoří z obývacího pokoje útulné a stylové hnízdo. Zamilujte si jeho vřelou náruč <b>měkkosti a hebkosti.<\/b>",
+        "name" : "Trend roku 2019: Návrat sametového pohlazení",
+        "end_in" : {
+          "minutes" : 8,
+          "hours" : 21,
+          "seconds" : 25,
+          "days" : 159
+        },
+        "types" : [
+          "Nábytkové"
+        ],
+        "author_description" : "Sametové pohovky a křesla"
+      }
+    },
+    {
+      "id" : "jaro-leto-na-balkone-zahradni-nabytek-venkovni-osvetleni-dekorace-textil",
+      "type" : "campaign",
+      "attributes" : {
+        "end_in" : {
+          "days" : 37,
+          "hours" : 20,
+          "seconds" : 25,
+          "minutes" : 8
+        },
+        "author_title" : "Eva, Creative Hunter pro Bonami",
+        "description" : "<b>Přivítejte léto otevřenou náručí.<\/b> Blíží se čas slunění se na balkoně, <b>pěstování bylinek<\/b> a hlavně odpočinku. Připravte se svědomitě na příchod parných letních dní. <b>Zahradní nábytek<\/b> doplňte o snímatelné potahy a podsedáky. Zábradlí <b>závěsnými květináči<\/b>. Zkrátka si vytvořte balkon, kvůli kterému <b>prožijete léto pod širým nebem<\/b>.",
+        "name" : "Prožijte léto na balkoně",
+        "author_description" : "Zahradní balkonový nábytek, koberce a dekorace",
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/c1\/48\/c148920e310304ae75e91950fe9312d58607e37e-458x298.jpeg",
+        "types" : [
+
+        ],
+        "perex" : "Zahradní balkonový nábytek, koberce a dekorace"
+      }
+    },
+    {
+      "id" : "skladovky",
+      "type" : "campaign",
+      "attributes" : {
+        "image_main_mvp_jpeg_high_url" : "https:\/\/1.bonami.cz\/images\/campaigns-admin\/eb\/df\/ebdf53d958b8b77f382f5823a7ba56b8049c127d-458x298.jpeg",
+        "types" : [
+
+        ],
+        "author_description" : "\"Děláme vše pro to, abyste na svou radost nemuseli dlouho čekat. Proto až budete příště tápat, co pěkného a rychlého si pořídit, vzpomeňte si na Skladovky.\"",
+        "end_in" : {
+          "days" : 4178,
+          "seconds" : 25,
+          "minutes" : 7,
+          "hours" : 12
+        },
+        "description" : "Po některých Bonami radostech se jen zapráší! Proto jsme nezaháleli a nakoupili je ve velkém na sklad, takže už za pár dní jsou u vás. Jestli tak hledáte dokonalý dárek, ještě dokonalejší dekoraci do bytu nebo tu nejvíce dokonalou prostou radost, to vše u nás najdete a během pár minut máte vyřešeno. Ale neváhejte, protože tyhle parádní kousky rychle mizí!",
+        "author_title" : "Václav Štrupl, zakladatel Bonami.cz",
+        "name" : "Skladovky",
+        "perex" : "Oblíbené kousky hned u vás doma"
+      }
+    }
+  ]
+}
